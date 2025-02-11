@@ -38,15 +38,15 @@
     },
     {
       "name": "Toolbox",
-      "version": "2.2.0",
+      "version": "2.3.0",
       "url": {
         "Windows": "https://github.com/ravendevteam/toolbox/releases/latest/download/toolbox.exe",
         "macOS": "https://github.com/ravendevteam/toolbox/releases/latest/download/toolbox-MacOS.zip"
       },
       "description": "Package manager for Raven software.",
       "sha256": {
-        "Windows": "d98ada7d63b115f9d03b88a69afc03988fe0ffea0fe9116d41caa314d031c1ad",
-        "macOS": "4729b656f3dba84f6851255daee46eb3c98501fdd89ae795b0143b3d7af06454"
+        "Windows": "ddd39dcaebb8a32fc2ca8b9058ed7535ef5b48fa7dd471eb9df69116e4845c67",
+        "macOS": "4990d3c742e6f8b0cae61d5eeb5b49114f4e98a037138ef64f51ae4a45e12ef1"
       },
       "requirepath": true,
       "shortcut": false,
